@@ -1,0 +1,23 @@
+{
+  "name": "automated-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiaVAV/automated-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiaVAV/automated-testing/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/AnastasiaVAV/automated-testing#readme",
+  "description": ""
+}
